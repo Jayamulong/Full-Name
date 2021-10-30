@@ -1,3 +1,6 @@
+#Create a program that will ask how many apples and oranges you want to buy.
+#Display the amount you need to pay if apple price is 20 pesos and orange is 25.
+
 def Apple_Price():
     Apple_Func = int(20)
     return Apple_Func
@@ -49,8 +52,3 @@ Apples_Prices = Calculate_Apple_Price()
 Oranges_Prices = Calculate_Orange_Price()
 #Give the total amount of apples and oranges combined
 Total_Amount()
-
-
-     
-
-   
